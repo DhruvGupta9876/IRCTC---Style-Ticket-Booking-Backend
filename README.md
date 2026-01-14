@@ -25,6 +25,20 @@ OOP Principles
 
 Console-based UI
 
+## 🖼️ Application Screenshots
+
+### 🔹 Home Screen
+![Home Screen](images/home.png)
+
+### 🔹 Available Trains
+![Train List](images/train-list.png)
+
+### 🔹 Ticket Booking
+![Ticket Booking](images/booking.png)
+
+### 🔹 Generated Ticket
+![Ticket Details](images/ticket.png)
+
 📂 Project Structure
 IRCTC-Train-Booking-System/
 │
